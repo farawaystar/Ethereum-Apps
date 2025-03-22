@@ -10,6 +10,6 @@ Some of my apps developed on Ethereum (newest-oldest)
 ---
 ### 01. Solidity Beginner Programs
 
-[Solidity Beginner Programs]([https://github.com/farawaystar/Solana-wallet-app](https://github.com/farawaystar/solidity-beginner-programs)) : A bunch of beginner programs on solidity with basic to increasing complexity, exercises and solutions that one can implement to get the hang of the language. Damn Interesting stuff. I will expand this library as and when I come across an intersting program that is not a repo of its own.
+[Solidity Beginner Programs](https://github.com/farawaystar/solidity-beginner-programs) : A bunch of beginner programs on solidity with basic to increasing complexity, exercises and solutions that one can implement to get the hang of the language. Damn Interesting stuff. I will expand this library as and when I come across an intersting program that is not a repo of its own.
 
 ---
